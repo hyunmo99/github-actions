@@ -6,4 +6,4 @@ jobs:
     steps: 
       - run: echo 'Hello, GitHub Actions!'
       - name: directory list
-        run: ls -al
+      - run: ls -al
